@@ -1,7 +1,7 @@
 window.RESUME = {
   /* main info */
-  name: "Sirapat Chuaysong",
-  shortName: "Sirapat",                       
+  name: "Nattawut Saediaw",
+  shortName: "Nattawut",                       
   photo: "assets/profile.jpg",
   photoFallbacks: ["profile.png", "profile.jpeg", "profile.webp", "plofile.png"],
   role: "Computer Artificial Intelligence (CAI)",
@@ -16,7 +16,7 @@ window.RESUME = {
 
   /* About Me */
   about: [
-    "Hello, I am Sirapat, a student in the Computer Artificial Intelligence program at the Faculty of Engineering, Panyapiwat Institute of Management. I am passionate about learning new technologies and solving problems through programming.",
+    "Hello, I am Nattawut, a student in the Computer Artificial Intelligence program at the Faculty of Engineering, Panyapiwat Institute of Management. I am passionate about learning new technologies and solving problems through programming.",
     "I am currently seeking an internship opportunity to apply the knowledge I have gained, grow alongside a team, and acquire practical work experience."
   ],
 
