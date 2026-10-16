@@ -1,7 +1,7 @@
 window.RESUME = {
   /* main info */
-  name: "Nattawut Saediaw",
-  shortName: "Nattawut",                       
+  name: "Sirapat Chuaysong",
+  shortName: "Sirapat",                       
   photo: "assets/profile.jpg",
   photoFallbacks: ["profile.png", "profile.jpeg", "profile.webp", "plofile.png"],
   role: "Computer Artificial Intelligence (CAI)",
@@ -16,7 +16,7 @@ window.RESUME = {
 
   /* About Me */
   about: [
-    "Hello, I am Nattawut, a student in the Computer Artificial Intelligence program at the Faculty of Engineering, Panyapiwat Institute of Management. I am passionate about learning new technologies and solving problems through programming.",
+    "Hello, I am Sirapat, a student in the Computer Artificial Intelligence program at the Faculty of Engineering, Panyapiwat Institute of Management. I am passionate about learning new technologies and solving problems through programming.",
     "I am currently seeking an internship opportunity to apply the knowledge I have gained, grow alongside a team, and acquire practical work experience."
   ],
 
@@ -34,15 +34,15 @@ window.RESUME = {
       type: "Experience",
       period: "2025-Present",                            
       title: "Work Experience",
-      place: "Areteam",
-      details: ["Gained practical work experience with the team."]
+      place: "",
+      details: [""]
     },
     {
       type: "Education",
       period: "Before 2025",
       title: "Vocational Certificate",
-      place: "Ayutthaya wittayalai School",
-      details: ["Field of Study: English-Mathematics"]
+      place: "Huai yot school",
+      details: ["Field of Study: Science-Mathematics"]
     }
   ],
 
