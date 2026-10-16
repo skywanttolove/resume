@@ -2,7 +2,6 @@ window.RESUME = {
   /* main info */
   name: "Nattawut Saediaw",
   shortName: "Nattawut",                       
-  // วางไฟล์รูปไว้โฟลเดอร์เดียวกับ index.html แล้วใส่ชื่อไฟล์ตรงนี้
   photo: "assets/profile.jpg",
   photoFallbacks: ["profile.png", "profile.jpeg", "profile.webp", "plofile.png"],
   role: "Computer Artificial Intelligence (CAI)",
